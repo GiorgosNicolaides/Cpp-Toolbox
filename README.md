@@ -1,4 +1,4 @@
-# cpp-Toolbox
+# Cpp-Toolbox
 
 ### doubly linked list [x]
 
